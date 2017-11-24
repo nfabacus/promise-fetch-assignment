@@ -18,5 +18,9 @@
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.10.0"
+  },
+  "dependencies": {
+    "promise-polyfill": "^6.0.2",
+    "whatwg-fetch": "^2.0.3"
   }
 }
